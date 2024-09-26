@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongodb": "^6.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeaG588/account-management.git"
+  },
+  "keywords": [
+    "l29062004g"
+  ],
+  "author": "LeaG588",
+  "license": "ISC",
+  "description": "Management of income and expenses of a business. Production of receipts and data segmentation"
+}
